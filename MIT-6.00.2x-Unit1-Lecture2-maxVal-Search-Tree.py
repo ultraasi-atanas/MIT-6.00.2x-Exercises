@@ -2,12 +2,14 @@
 """
 Created on Fri Oct 30 09:15:55 2020
 
-@author: Atanas Kozarev - github.com/ultraasi-atanas
 MIT 6.00.2x Introduction to Computational Thinking and Data Science
 UNIT 1
 Lecture 2
 
+Maybe try finding an up-to-date link of the relevant year/edition of the course
+Old link - stopped working Jan 2021
 https://learning.edx.org/course/course-v1:MITx+6.00.2x+3T2020/
+@author: Atanas Kozarev - github.com/ultraasi-atanas
 """
 # =============================================================================
 # Video:
